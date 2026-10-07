@@ -1,0 +1,25 @@
+ Tutorial — Users — TZ_DATA
+
+Company: Anticloud FZ LLE
+Model: PAX L5 Narrow L2 General 27B
+Project: TZ_DATA | Category: CARBON_CAPTURE
+Upstream: https://github.com/transitionzero/tz-data (Apache 2.0)
+
+ Overview
+
+This document covers tutorial — users for the Anticloud integration of TZ_DATA.
+
+Energy transition carbon data
+
+ Anticloud Integration
+
+PAX L5 Narrow L2 General 27B is integrated into TZ_DATA to provide:
+- Local AI inference with zero cloud dependency
+- AIOSS tamper-evident audit chain
+- AES-256 encryption at rest
+- Single-binary deployment
+
+ Contact
+
+Lois-Kleinner Alpasan — CEO & CTO, Anticloud FZ LLE
+lois@0-1.gg | 0-1.gg
